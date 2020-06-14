@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name" translatable="false">RainFallApp</string>
+    <string name="titleText">Welcome to the Rainfall App</string>
+    <string name="locationText">Enter Location</string>
+    <string name="monthCodeText">Month Time Code:</string>
+    <string name="monthCodeHint">Time Code</string>
+    <string name="rainfallText">Rain Fall (in mm):</string>
+    <string name="rainfallHint">Rain Fall</string>
+    <string name="saveButtonText">Save Entry</string>
+    <string name="runReportButtonText">Run Report</string>
+    <string name="reportText">Report Output Window</string>
+    <string name="errorMsg">ERROR: The amount must be in the range (0…1000). Please try again.</string>
+    <string name="reportTitleText">Rainfall Report for %s</string>
+    <string name="reportAveResultText">Result average is %.2f mm.</string>
+    <string name="reportColumn1">Month</string>
+    <string name="reportColumn2">Time Code</string>
+    <string name="reportColumn3">Rainfall (mm)</string>
+    <string name="reportColumn4">Classification</string>
+    <string name="reportDiv1">-----</string>
+    <string name="reportDiv2">---------</string>
+    <string name="reportDiv3">-------------</string>
+    <string name="reportDiv4">--------------</string>
+
+    <string-array name="timeCodeHints">
+        <item>Month 1 Time Code</item>
+        <item>Month 2 Time Code</item>
+        <item>Month 3 Time Code</item>
+        <item>Month 4 Time Code</item>
+        <item>Month 5 Time Code</item>
+        <item>Month 6 Time Code</item>
+        <item>Month 7 Time Code</item>
+        <item>Month 8 Time Code</item>
+        <item>Month 9 Time Code</item>
+        <item>Month 10 Time Code</item>
+        <item>Month 11 Time Code</item>
+        <item>Month 12 Time Code</item>
+    </string-array>
+
+    <string-array name="rainFallHints">
+        <item>Month 1 Rain Fall</item>
+        <item>Month 2 Rain Fall</item>
+        <item>Month 3 Rain Fall</item>
+        <item>Month 4 Rain Fall</item>
+        <item>Month 5 Rain Fall</item>
+        <item>Month 6 Rain Fall</item>
+        <item>Month 7 Rain Fall</item>
+        <item>Month 8 Rain Fall</item>
+        <item>Month 9 Rain Fall</item>
+        <item>Month 10 Rain Fall</item>
+        <item>Month 11 Rain Fall</item>
+        <item>Month 12 Rain Fall</item>
+    </string-array>
+
+</resources>
